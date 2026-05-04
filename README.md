@@ -15,8 +15,8 @@ I am **Charles Josh M. Gomez**, with a flair for coding and database management 
 
 ## 📜 Certifications
 - [NoSQL and DBaaS 101](https://example.com/nosql-dbaas-101)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://example.com/oracle-data-management-2023)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://example.com/oracle-infrastructure-2023)
+- [Introduction to Cyber Security]([https://example.com/oracle-data-management-2023](https://simpli-web.app.link/e/ty5bn7d1Q2b))
+- [Data Analyst with AI]([https://example.com/oracle-infrastructure-2023](https://www.sololearn.com/certificates/CC-QNOR3QUS))
 
 
 ---
