@@ -16,7 +16,7 @@ I am **Charles Josh M. Gomez**, with a flair for coding and database management 
 ## 📜 Certifications
 - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/eeebb6abdd2c4a699cf98a4c57ae8a2e)
 - [Introduction to Cyber Security](https://simpli-web.app.link/e/ty5bn7d1Q2b)
-- [Data Analyst with AI](https://www.sololearn.com/certificates/CC-QNOR3QUS))
+- [Data Analyst with AI](https://www.sololearn.com/certificates/CC-QNOR3QUS)
 
 
 ---
