@@ -40,6 +40,6 @@ I am **Charles Josh M. Gomez**, with a flair for **coding** and **database manag
 ---
 
 ## 📫 Contact Me
-- 🔗 LinkedIn: [LinkedIn profile link](https://www.linkedin.com/in/charles-gomez-7346b136b/))
+- 🔗 LinkedIn: [LinkedIn profile link](https://www.linkedin.com/in/charles-gomez-7346b136b/)
 - 📧 Email: charlesjoshgomez@gmail.com
 
