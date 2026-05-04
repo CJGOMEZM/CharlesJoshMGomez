@@ -1,4 +1,4 @@
-**Hi, Charles Josh M. Gomez**
+
 
 **About Me**
 
