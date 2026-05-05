@@ -1,6 +1,6 @@
 
 
-**About Me**
+## About Me
 
 I am **Charles Josh M. Gomez**, with a flair for **coding** and **database management skills**. I thrive on tackling complex problems and crafting elegant solutions. Adaptable to fast-paced environments with strong listening skills, patience, and teamwork. **Cybersecurity** and IT work demand patience, critical thinking, and discipline—all of which I consistently apply in my studies and previous work experience. My journey in tech started when I took the **BS Information Technology** program.
 
