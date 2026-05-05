@@ -26,7 +26,7 @@ I am **Charles Josh M. Gomez**, with a flair for **coding** and **database manag
 
 ### 💻 Programming
 - Java  
-- JavaScript  
+- JavaScript 
 
 ### 🗄️ Databases
 - IBM DB2 Cloud  
